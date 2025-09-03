@@ -2,11 +2,11 @@
 title: Email Monitoring with Enveloop
 description: Email Monitoring with Enveloop
 publishDate: 2024-08-12
-image: https://blog.enveloop.com/content/images/2024/08/blog-enveloop-monitoring-36.png
-toc: false
 lang: en
 abbrlink: email-monitoring-with-enveloop
 ---
+
+![Email Monitoring with Enveloop Header](/img/header-monitoring.png)
 
 The team has added another great feature to Enveloop: **Deliverability Monitoring**. 
 
@@ -14,23 +14,34 @@ With Monitoring, you get critical insight and a visual representation of DMARC r
 
 A bit of background, then we'll dig into the feature!
 
-Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can sign up for free at: [https://app.enveloop.com](https://app.enveloop.com).### Why it Matters to MonitorEveryone wishes it was simple to send a legit email and have confidence the message will be delivered fast. Email is a simple and centralized way to get valuable information (for both action and record) to someone. Unfortunately, this technology has been abused, so the doorway to mail servers has become a gauntlet of complexity for developers. 
+> Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can sign up for free at: [https://app.enveloop.com](https://app.enveloop.com).
+
+### Why it Matters to Monitor
+
+Everyone wishes it was simple to send a legit email and have confidence the message will be delivered fast. Email is a simple and centralized way to get valuable information (for both action and record) to someone. Unfortunately, this technology has been abused, so the doorway to mail servers has become a gauntlet of complexity for developers. 
 
 Given these challenges, you still need to have confidence that you are succeeding in delivering critical information to your users. Sure, it's nice to trust a service like Enveloop to send messages using best practices, but you need to see repeated evidence that all is in order. Accurately set up email services and domains can still run afoul of tighter mail exchanges and changing standards.
 
 So, how does Enveloop help you with this?
 
-In addition to [message logging](https://blog.enveloop.com/enveloop-logging/), Enveloop Monitoring receives and processes  DMARC reports issued by mail exchanges, providing a visual map for your on-the-ground message performance. 
+In addition to [message logging](https://blog.enveloop.com/enveloop-logging/), Enveloop Monitoring receives and processes DMARC reports issued by mail exchanges, providing a visual map for your on-the-ground message performance. 
 
-### What are DMARC Reports?In a basic understanding, DMARC reports are like **report cards for emails sent**. These report cards, issued by the receiving mail exchanges, give you a lay-of-the-land for how emails, sent from you, were handled when they arrived at your user's mail server.
+### What are DMARC Reports?
 
-The problem – the report just a big, sometimes confuing, XML dump. Trying to wade through the boilerplate to find the critical parts you need, and aggregating all the structured data, is, well, not-fun.
+In a basic understanding, DMARC reports are like **report cards for emails sent**. These report cards, issued by the receiving mail exchanges, give you a lay-of-the-land for how emails, sent from you, were handled when they arrived at your user's mail server.
+
+The problem – the report just a big, sometimes confusing, XML dump. Trying to wade through the boilerplate to find the critical parts you need, and aggregating all the structured data, is, well, not-fun.
 
 So, when you [set up your sending domain through Enveloop](https://docs.enveloop.com/product-guides/getting-started/adding-a-sending-domain), we start to receive all your reports and, via our Monitoring tool, provide you a visual way to look across these DMARC responses issued about your domain. You can see weekly or monthly trends. You can also dig deeper into specific reports, by source domain or IP, and, if needed dig into the raw XML.
 
-### Enveloop MonitoringAll of this is provided via the Enveloop **Monitoring** tab *(you can find it in the primary navigation for Enveloop)*. Assuming you have [configured your sending domain ](https://docs.enveloop.com/product-guides/getting-started/adding-a-sending-domain)when using Enveloop, you will be able to view reports, for a given date range, that include percentages of:
+### Enveloop Monitoring
 
-- DMARC compliance- DKIM verification- SPF verification
+All of this is provided via the Enveloop **Monitoring** tab *(you can find it in the primary navigation for Enveloop)*. Assuming you have [configured your sending domain ](https://docs.enveloop.com/product-guides/getting-started/adding-a-sending-domain)when using Enveloop, you will be able to view reports, for a given date range, that include percentages of:
+
+- DMARC compliance
+- DKIM verification
+- SPF verification
+
 💪Enveloop makes it easy to see all the reports across your sending domain, not just for messages you send through Enveloop!![](https://blog.enveloop.com/content/images/2024/08/enveloop-dmarc-monitoring.webp)You can see multiple reports and trending all on one screen.Along with the base reports, you can narrow down your Monitoring window by using the following options:
 
 **Date Range**
@@ -51,4 +62,6 @@ We're already working on ways to expand monitoring and logging to cover addition
 
 Happy sending!
 
-### Try Enveloop!Enveloop is [**free to get started**](https://app.enveloop.com/) and you can build out and send you first template in under 5 minutes! Storing all your message code, design, and provider integrations in your app is an anti-pattern. Enveloop helps you send better messages and allows you to easily delegate messaging to others on your team!
+### Try Enveloop!
+
+Enveloop is [**free to get started**](https://app.enveloop.com/) and you can build out and send you first template in under 5 minutes! Storing all your message code, design, and provider integrations in your app is an anti-pattern. Enveloop helps you send better messages and allows you to easily delegate messaging to others on your team!
