@@ -2,7 +2,6 @@
 title: Tagging Templates
 description: Tagging Templates
 publishDate: 2025-01-21
-image: https://blog.enveloop.com/content/images/2025/01/blog-enveloop-product-tags-39-1.png
 lang: en
 abbrlink: tagging-templates
 ---
