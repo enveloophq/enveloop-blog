@@ -59,6 +59,8 @@ Once the domain-based DKIM record has been verified, you'll see a **Green Shield
 
 **Default From.** Now that your domain is set up, you can define a *Default From Address* and Name for your email templates. You can override this value inside individual templates, but having a default set up is good practice.
 
+https://github.com/user-attachments/assets/b4515b5c-4a6e-4f2c-a470-553dfe5082b3
+
 That's it. Everything is set for you to start sending!
 
 ## Verified Senders
@@ -76,7 +78,11 @@ After logging into Enveloop, go the **Mail Settings**, located in the left-side 
 
 ![Adding a Verified Sender](/img/send-setup-verified-sender.png)
 
-Once in mail settings, click on the **Add Sender ID** button. After that, you'll be prompted to enter the email address you want to send from. Once added, click the **Add Sender ID** button. Now, Enveloop will send you an email to that address, starting the process of verifying your access for sending. Until you verify the email, you will note that Enveloop shows as having an incomplete setup or a **Yellow shield**.
+Once in mail settings, click on the **Add Sender ID** button. 
+
+https://github.com/user-attachments/assets/ad3b47b6-1af5-418f-950e-539a46507294
+
+After that, you'll be prompted to enter the email address you want to send from. Once added, click the **Add Sender ID** button. Now, Enveloop will send you an email to that address, starting the process of verifying your access for sending. Until you verify the email, you will note that Enveloop shows as having an incomplete setup or a **Yellow shield**.
 
 Once the email address has been verified, you'll see a **Green Shield** icon. Now, you are all set to start sending.
 
