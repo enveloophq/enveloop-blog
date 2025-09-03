@@ -3,16 +3,15 @@ title: Tagging Templates
 description: Tagging Templates
 publishDate: 2025-01-21
 image: https://blog.enveloop.com/content/images/2025/01/blog-enveloop-product-tags-39-1.png
-toc: false
 lang: en
 abbrlink: tagging-templates
 ---
 
+!(/img/header-tagging-templates.png)
+
 You can now add tags to your message templates in Enveloop. It's a fast way to add simple labels to all of your templates in Enveloop. Once added, you can filter your view to see only the templates that have the selected tags.
 
-:::note[What is Enveloop?]
-Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can [sign up for free](https://app.enveloop.com) and it only takes a few moments to get started!
-:::
+> Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can [sign up for free](https://app.enveloop.com) and it only takes a few moments to get started!
 
 Highlighted below are a couple of ways you and your team can take advantage of tagging in Enveloop:
 
