@@ -18,10 +18,7 @@ Highlighted below are a couple of ways you and your team can take advantage of t
 
 To add a tag, open Template options and select "Manage Tags". From there, you can add a comma-delimited set of tags for a template. To edit or remove a tag, you follow the same procedure, changing or removing tags on the template.
 
-<video controls width="100%" style="max-width: 600px;">
-  <source src="/assets/images/Add%20Tag%20Rev.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/5f413ad4-be8a-4b82-950e-353324125807
 
 ### Filtering Views Using Tags
 
