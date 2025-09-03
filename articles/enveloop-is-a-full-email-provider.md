@@ -4,11 +4,11 @@ description: Introducing Enveloop Send
 publishDate: 2024-03-28
 tags:
 - Announcements
-image: https://blog.enveloop.com/content/images/2024/03/blog-product-enveloop-sending-29-1.png
-toc: false
 lang: en
 abbrlink: enveloop-is-a-full-email-provider
 ---
+
+![Announcing Enveloop Send](/img/header-enveloop-send.png)
 
 We're excited to announce that Enveloop is now a full end-to-end email provider.
 
@@ -24,14 +24,24 @@ You can easily configure and send from an individual email address or sending on
 
 *Quick note: Still want to keep your email provider, but use Enveloop for all your message template design and management? No problem – our integrations got you covered!*
 
-### BenefitsLet's take a moment to look into some of the benefits that you receive from using Enveloop Send as your primary email provider
+### Benefits
 
-- **Authentication**. Adding your domain only takes a moment. Plus, we provide you **proper DKIM settings** to add to your domain to ensure proper sending authentication. Also, Enveloop handles all SPF settings automatically.- **Logging**. The best logging in the industry. Seriously. Find out more in: [Enveloop Logging](https://blog.enveloop.com/enveloop-logging/).- **Verified Senders**. Don't have full access to your company domain –  or not sure you are ready to go all-in with Enveloop yet? You can still verify individual company email addresses and then start sending.- **DMARC Monitoring.** Our team closely monitors all DMARC reports and will alert you as to any issues.
+Let's take a moment to look into some of the benefits that you receive from using Enveloop Send as your primary email provider
+
+- **Authentication**. Adding your domain only takes a moment. Plus, we provide you **proper DKIM settings** to add to your domain to ensure proper sending authentication. Also, Enveloop handles all SPF settings automatically.
+- **Logging**. The best logging in the industry. Seriously. Find out more in: [Enveloop Logging](https://blog.enveloop.com/enveloop-logging/).
+- **Verified Senders**. Don't have full access to your company domain – or not sure you are ready to go all-in with Enveloop yet? You can still verify individual company email addresses and then start sending.
+- **DMARC Monitoring.** Our team closely monitors all DMARC reports and will alert you as to any issues.
+
 So far, so good. Interested in how to set things up? Let's dive into a quick example to show you the steps involved!
 
-## Sending with a Domain NameOnce you've **created your Enveloop account** and are ready to set up sending, choose **Mail Settings**, located in the left-side navigation
+## Sending with a Domain Name
 
-![](https://blog.enveloop.com/content/images/2024/03/sender-id-01.png)Click on the **Add Sender ID** button.
+Once you've **created your Enveloop account** and are ready to set up sending, choose **Mail Settings**, located in the left-side navigation.
+
+![Choose to Add Sender ID](/img/send-setup-sender-id.png)
+
+Click on the **Add Sender ID** button.
 
 You'll be prompted to enter a domain name (for example: reallyredpanda.com). Add the domain name.
 
@@ -43,7 +53,9 @@ Once back in Enveloop, you'll notice a **Yellow Shield** icon. This icon will re
 
 There is nothing more you need to do at this point – Enveloop will continue to check your domain every 20-30 seconds to verify everything is proper. The entire process should take around 60 seconds.
 
-![](https://blog.enveloop.com/content/images/2024/03/sender-id-03.png)Once the domain-based DKIM record has been verified, you'll see a **Green Shield** icon. From there, you are all set to start sending!
+![Sender ID successfully added because we see the green shield.](/img/send-sender-id-added.png)
+
+Once the domain-based DKIM record has been verified, you'll see a **Green Shield** icon. From there, you are all set to start sending!
 
 **Default From.** Now that your domain is set up, you can define a *Default From Address* and Name for your email templates. You can override this value inside individual templates, but having a default set up is good practice.
 
@@ -62,13 +74,9 @@ Let's take a brief moment to look at how this works!
 
 After logging into Enveloop, go the **Mail Settings**, located in the left-side navigation, for the team/project you want to add a sender to.
 
-![](https://blog.enveloop.com/content/images/2024/03/sender-id-01-1.png)Once in mail settings, click on the **Add Sender ID** button.
+![Adding a Verified Sender](/img/send-setup-verified-sender.png)
 
-After that, you'll be prompted to enter the email address you want to send from. Once added, click the **Add Sender ID** button.
-
-Now, Enveloop will send you an email to that address, starting the process of verifying your access for sending.
-
-Until you verify the email, you will note that Enveloop shows as having an incomplete setup or a **Yellow shield**.
+Once in mail settings, click on the **Add Sender ID** button. After that, you'll be prompted to enter the email address you want to send from. Once added, click the **Add Sender ID** button. Now, Enveloop will send you an email to that address, starting the process of verifying your access for sending. Until you verify the email, you will note that Enveloop shows as having an incomplete setup or a **Yellow shield**.
 
 Once the email address has been verified, you'll see a **Green Shield** icon. Now, you are all set to start sending.
 
