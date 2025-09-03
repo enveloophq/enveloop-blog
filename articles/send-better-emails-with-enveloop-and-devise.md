@@ -73,13 +73,15 @@ class EnveloopMailer &lt; Devise::Mailer
 end
 ```
 
-### Getting info from EnveloopStill with us? Awesome. Let's go.
+### Getting info from Enveloop
+
+Still with us? Awesome. Let's go!
 
 *A couple of quick housekeeping items before we get too far: setting up a sender and knowing where your API key is.*
 
 #### Senders
 
-In Enveloop, you'll need to make sure that you have created a verified sender or set up your domain with Enveloop. If you need help, we created an article called: **blah** that shows how to do this. It only takes a few moments.
+In Enveloop, you'll need to make sure that you have created a verified sender or set up your domain with Enveloop.
 
 ![Set up a sender in Enveloop](/img/devise-sender.png)
 
