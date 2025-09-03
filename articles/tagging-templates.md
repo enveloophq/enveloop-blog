@@ -7,7 +7,7 @@ lang: en
 abbrlink: tagging-templates
 ---
 
-!(/img/header-tagging-templates.png)
+![/img/header-tagging-templates.png]
 
 You can now add tags to your message templates in Enveloop. It's a fast way to add simple labels to all of your templates in Enveloop. Once added, you can filter your view to see only the templates that have the selected tags.
 
