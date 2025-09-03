@@ -27,15 +27,7 @@ Here are highlights of the core features we included:
 
 As you are watching message logs, all events show live: new messages being sent, message statuses changing, events happening. Plus, as you scroll, the logging can be paused while you look for a specific message. This way, you are not having results move around as you diagnose an issue.
 
-                        0:00
-                        
-                            /0:07
-
-                        1×
-
-            Easily transition from live logging to paused and back to live again.
-
-        Ready to resume? Simply click to the Resume button to return to live logging.
+https://github.com/user-attachments/assets/f83fa3ab-3c3d-4c74-981a-2b4067b4f206
 
 Along with the live or paused logging, we've included **infinite scrolling**. Clicking through page after page of pagination is slow drudgery. Along with powerful filtering, which we discuss next, you can quickly scroll to what you are looking for in the logs.
 
@@ -43,15 +35,9 @@ Along with the live or paused logging, we've included **infinite scrolling**. Cl
 
 We make it as easy as possible to visually scan logs and find messages that you want to focus on. However, filtering is still a highly important tool for limiting all your messages to a manageable set. 
 
-                        0:00
-                        
-                            /0:15
+https://github.com/user-attachments/assets/6ad5bf58-419e-4032-9a64-dd2fd0042be0
 
-                        1×
-
-            Use filtering for both live and paused message logs!
-
-        For all the various properties of the messages you have, you can quickly filter log entries, both with live and paused log views. Filter logging based on:
+For all the various properties of the messages you have, you can quickly filter log entries, both with live and paused log views. Filter logging based on:
 
 - Message Type
 - Message Status (queued, sent, failed, etc.)
