@@ -23,10 +23,10 @@ Often, our users craft emails with multiple variables included in their content.
 Let's go with the example of a table for a sales receipt. If you were working on a sales receipt and wanted to display a list of items, their description, and their price – **having to generate all the test data takes time** and, honestly, is a bit of a buzzkill. 
 
 ![An image of a message template in Enveloop that has Mustache-formatted variables that represent dynamic data a developer wants to include in a tabular form of a sales receipt.](/img/magicfill-receipt-example.png)
-*As you can see, even a basic sales receipt has multiple areas of dynamic data and, when testing your designs, a dev normally has to provide that information.*
-In addition, you aren't overly concerned with the data used as long as it contextually makes sense. And more, it'd be helpful to see a few different sets of data, allowing you to preview the same template in different test states.
 
-Instead of having to hand-fill all of this, just clicking a button would be easier. Right? We think so.
+*As you can see, even a basic sales receipt has multiple areas of dynamic data and, when testing your designs, a dev normally has to provide that information.*
+
+In addition, you aren't overly concerned with the data used as long as it contextually makes sense. And more, it'd be helpful to see a few different sets of data, allowing you to preview the same template in different test states. Instead of having to hand-fill all of this, just clicking a button would be easier. Right? We think so.
 
 So, we added a feature called **Magic Fill**. Here's some more info!
 
@@ -34,15 +34,11 @@ So, we added a feature called **Magic Fill**. Here's some more info!
 
 Once you've added variables to your template in the **Build** mode, you can move to the Enveloop **Test** mode (for both email and SMS). The variables you added while building your message will now be listed on the right side of the screen.
 
-                        0:00
-                        
-                            /0:23
+https://github.com/user-attachments/assets/732e10b0-7502-49fd-996a-4b288b4d28b6
 
-                        1×
+When you move from&nbsp;****Build****&nbsp;to&nbsp;****Test****&nbsp;mode, all the variables you included in your template are available for test data. Click&nbsp;****Magic Fill****&nbsp;and AI will auto-generate relevant test data for you!
 
-            When you move from&nbsp;****Build****&nbsp;to&nbsp;****Test****&nbsp;mode, all the variables you included in your template are available for test data. Click&nbsp;****Magic Fill****&nbsp;and AI will auto-generate relevant test data for you!
-
-        Just below the variables, you'll notice a button called "Magic Fill." It looks at the names of the variables and, using AI, will auto-generate test data that contextually matches what you named the variable. Once complete, the variable values will be filled in, and your message template preview will be updated.
+Just below the variables, you'll notice a button called "Magic Fill." It looks at the names of the variables and, using AI, will auto-generate test data that contextually matches what you named the variable. Once complete, the variable values will be filled in, and your message template preview will be updated.
 
 You can see, **live**, what your message would look like with real data, and you can click the "Send Email" button to send a test email to yourself, viewing the message in an email or SMS client of your choice.
 
