@@ -1,4 +1,5 @@
 ## Enveloop Blog
+
 Here is a collection of articles that were created to announce new features for Enveloop. 
 
 ### Articles
@@ -10,7 +11,6 @@ Here is a collection of articles that were created to announce new features for 
 * **Apr 29, 2024** [Send better emails with Enveloop and Devise](/articles/send-better-emails-with-enveloop-and-devise.md)
 * **Mar 28, 2024** [Announcing Enveloop Send](/articles/enveloop-is-a-full-email-provider.md)
 * **Feb 15, 2024** [Introducing Enveloop Logging: Email & Text Tracking](/articles/enveloop-logging.md)
-* **Jan 31, 2024** [Using TextGrid with Enveloop](/articles/using-textgrid-with-enveloop.md)
 * **Jan 18, 2024** [Big update! Email provider, logging, and more.](/articles/big-updates-email-providers-and-more.md)
 * **Nov 27, 2023** [Magic Fill - Using AI to test dynamic content](/articles/magic-fill-using-ai-to-test-dynamic-content.md)
 * **Oct 12, 2023** [Creating reusable email designs](/articles/copy-and-paste.md)
