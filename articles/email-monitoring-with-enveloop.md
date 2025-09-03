@@ -42,7 +42,11 @@ All of this is provided via the Enveloop **Monitoring** tab *(you can find it in
 - DKIM verification
 - SPF verification
 
-💪Enveloop makes it easy to see all the reports across your sending domain, not just for messages you send through Enveloop!![](https://blog.enveloop.com/content/images/2024/08/enveloop-dmarc-monitoring.webp)You can see multiple reports and trending all on one screen.Along with the base reports, you can narrow down your Monitoring window by using the following options:
+💪Enveloop makes it easy to see all the reports across your sending domain, not just for messages you send through Enveloop!
+
+![Monitoring DMARC](/img/monitoring-dmarc.webp)
+
+Along with the base reports, you can narrow down your Monitoring window by using the following options:
 
 **Date Range**
 
@@ -56,7 +60,9 @@ For a given date, view high-level numbers for DMARC reports you have received fr
 
 You can view, in detail, a DMARC response received for your domain and the mail server that issued it. Enveloop Monitoring provides a quick view for DMARC and DKIM compliance -- plus, for each report received, you can click the report to view a visual breakdown *(including source IP and source domain)*.
 
-![](https://blog.enveloop.com/content/images/2024/08/enveloop-dmarc-report-detail.webp)Easily look at detailed information included in each DMARC report.### Monitoring and LoggingSo, as you can see, alongside [Logging](https://docs.enveloop.com/product-guides/logging), Enveloop Monitoring gives you full view of your message performance once your messages have left your server and interacted with mail exchanges around the world.
+![Monitoring DMARC Detail](/img/monitoring-dmarc-detail.webp)
+
+Easily look at detailed information included in each DMARC report.### Monitoring and LoggingSo, as you can see, alongside [Logging](https://docs.enveloop.com/product-guides/logging), Enveloop Monitoring gives you full view of your message performance once your messages have left your server and interacted with mail exchanges around the world.
 
 We're already working on ways to expand monitoring and logging to cover additional areas of sending. If you like what you see here, but are curious if we can include additional monitoring and logging features, [please let us know](mailto:hey@enveloop.com)!
 
