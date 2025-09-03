@@ -32,27 +32,16 @@ All your colors are located in an accessible theme toolbox, available to be used
 
 ### Extend Themes to All Your Templates
 
-With theme copy and paste, once you have created a theme, you can easily move it from one template to the next. This allows you to consistently apply your design and branding elements across all your emails and texts
+With theme copy and paste, once you have created a theme, you can easily move it from one template to the next. This allows you to consistently apply your design and branding elements across all your emails and texts.
 
-                        0:00
-                        
-                            /0:14
+https://github.com/user-attachments/assets/029efcb4-00a6-4f17-8548-759b2bd32045
 
-                        1×
-
-            You can rapidly move your themes to new or existing templates.
 
 ### So, where are all these colors used?
 
 For all the colors that you have in your theme, you can roll over each one to see all the places the color is currently used in your email template. This helps you to know what all sections and elements will be affected by any color changes that you make.
 
-                        0:00
-                        
-                            /0:04
-
-                        1×
-
-            Moving your cursor over each theme color displays where that color is being used in your template.
+https://github.com/user-attachments/assets/0fe650f6-dab7-4a6a-90b0-d7cbadd8f065
 
 ### More Themes to Come!
 
