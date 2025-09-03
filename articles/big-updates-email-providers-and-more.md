@@ -3,9 +3,8 @@ title: Big update! Email provider, logging, and more.
 description: Big update! Email provider, logging, and more.
 publishDate: 2024-01-18
 tags:
-  - News + Updates
-image: https://blog.enveloop.com/content/images/2024/01/enveloop-new-features-for-ghost.png
-toc: false
+  - Announcements
+  - Feature
 lang: en
 abbrlink: big-updates-email-providers-and-more
 ---
