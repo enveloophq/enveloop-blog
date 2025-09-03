@@ -3,14 +3,13 @@ title: "Template History with Enveloop"
 description: Enveloop Template History allows users to easily view and restore to historical versions of their previous template designs. It is basically a timeline for your email designs.
 publishDate: 2025-02-26
 tags: ["feature", "design"]
-toc: false
 lang: en
 abbrlink: template-history-with-enveloop-a-historical-timeline-for-email-designs
 ---
 
+![Template History with Enveloop Header](/img/header-template-history.png)
 
 > Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can [sign up for free](https://app.enveloop.com).
-
 
 Ever held back from experimenting with your email template designs because you were afraid of losing something important? We're excited to introduce **Template History** in Enveloop – a feature that gives you the freedom to explore new design directions while keeping your previous work just a click, or in our case, a slider away.
 
@@ -44,6 +43,8 @@ Plus, if any work is mistakenly overwritten, it's super-easy to pull back the la
 **2. Open Template History.** Scroll through your template's evolution with our visual timeline interface. You can see all your changes, displayed in the proper media format, and find what you are looking for.
 
 **3. Restore Instantly.** Found a version you want to revisit? You have the option to restore your design to the current template or create a new template from that point in history. Simple.
+
+https://github.com/user-attachments/assets/5ad88a00-be7b-442f-b808-4c2a1f09b026
 
 ### Start Creating with Confidence
 
