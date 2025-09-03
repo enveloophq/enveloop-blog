@@ -9,7 +9,7 @@ abbrlink: template-history-with-enveloop-a-historical-timeline-for-email-designs
 ---
 
 
->> Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can [sign up for free](https://app.enveloop.com).
+> Enveloop is a developer-focused message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can [sign up for free](https://app.enveloop.com).
 
 
 Ever held back from experimenting with your email template designs because you were afraid of losing something important? We're excited to introduce **Template History** in Enveloop – a feature that gives you the freedom to explore new design directions while keeping your previous work just a click, or in our case, a slider away.
