@@ -19,7 +19,7 @@ However ... once you've put in the effort to establish your design, you'd like t
 
 > Enveloop is a developer-focused email and text message builder and API that makes it easy to design &amp; send beautiful emails and texts from your app using one simple implementation. You can sign up for free at: [https://app.enveloop.com](https://app.enveloop.com).Here are a couple of highlights:
 
-#### Duplicating an email template
+### Duplicating an email template
 
 Large scale, first! If you've created an email template and would like to duplicate it, in its entirety, and modify the new one – it takes only a moment.
 
@@ -29,7 +29,7 @@ From the **Gear** icon at top right, you can access **Template Settings**. From 
 
 Clicking "Create a Copy" on the Template Settings area in Enveloop allows you to easily duplicate an entire message template.Once completed, you are set. All the design, content, and template settings are carried over. The only change made is that the template will get a new, unique slug name, to access it via the Enveloop API.
 
-#### Copying a Section
+### Copying a Section
 
 When you roll over each section, a small label/header will appear in the top-right bounds of the section. It shows the name of the section and the border makes it easy to see what all content is located within the Section.
 
@@ -39,7 +39,7 @@ Also located in the label/header, you'll notice an icon that looks like two docu
 *You can copy entire sections in Enveloop. It will include all the content and design properties for the section and the elements that reside in it.*
 You'll notice that when you clicked the **Copy** icon, a **Paste** prompt appeared. It's letting you know the the copied content is standing by. Click into the area you'd like the content pasted, click the **Paste** prompt and the Section will be added.
 
-#### Copying an Element
+### Copying an Element
 
 Now the small scale! Similar to the **Copy and Paste** for a Section, you can perform the same set of actions for individual Elements within your email.
 
@@ -48,6 +48,7 @@ When you roll over each element, a small label/header will appear in the top-rig
 Similarly, in the label/header, you'll notice an icon that looks like two documents overlaid on each other. Click that icon and it copies the Element (including its design and content) and all of that information is now available to be pasted elsewhere in the email template.
 
 ![An animation of a cursor, selecting an element of text, and choosing an icon that copies and, then, pastes the element into a email template.](/img/copy-paste-paste-section-animation.gif)
+
 *You can copy individual Elements in Enveloop as well. It will keep all the content and design properties for the Element.*
 You'll notice that when you clicked the **Copy** icon, look for the same **Paste** prompt. It's the content copied is stored and ready to be pasted in. Click into the area you'd like the content pasted, click the **Paste** prompt and the Element will be added.
 
