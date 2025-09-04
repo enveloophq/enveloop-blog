@@ -35,10 +35,12 @@ Craft a clear and concise subject line that immediately tells the recipient who 
 So, I agree with you that the above subject line is concise. Yet, it's not clear who it's from. Instead of:
 
 > E-Day Registration Submitted
-We could make the subject line more clear (and reinforce our branding 😉).
+
+_We could make the subject line more clear (and reinforce our branding 😉)._
 
 > Green University: E-Day Registration Submitted
-*Remember, people may not remember the specific name of an event or the name of a tool, but they can more easily remember broader concepts, locations, etc. Give your users anchors to call back on. *
+
+_Remember, people may not remember the specific name of an event or the name of a tool, but they can more easily remember broader concepts, locations, etc. Give your users anchors to call back on._
 
 ### Tip #2: Use Good Action Verbs
 
@@ -49,9 +51,11 @@ Remember, even though you are writing a transactional email, you should treat it
 Instead of: 
 
 > Green University: E-Day Registration Submitted
+
 Let's change it to:
 
 > Green University: E-Day Registration Received!
+
 Again, it's simple. But, it removes a technical word like "submitted" and tells the user what actually happened – Green University received all the information I just sent them, registering my child for "E-Day". "Submitted" sounds like I jettisoned all my information into the ether, hoping it found the right spot to land. 🪐
 
 ### Tip #3: Make it Personal
@@ -59,18 +63,22 @@ Again, it's simple. But, it removes a technical word like "submitted" and tells 
 Sure, subject lines have to be brief – but you still have room to make it about the user. Let's take a look at the changes we've made so far:
 
 > Green University: E-Day Registration Received!
+
 In this example, though, I registered my teenager for this event. I took the action, but it wasn't about me. Also, I may have other children – and they may have other activities. Let's value our users and give them helpful data. 
 
 This is pretty good:
 
 > Green University: E-Day Registration Received!
+
 However, let's go this direction:
 
 > Green University: Hayden's E-Day Registration Received!
+
 Or ... maybe these options:
 
 > Green University: Hayden's successfully registered for E-Day!
 > Green University: E-Day Registration Received - Hayden Williams
+
 There are a few other variants you could include as well (perhaps tying closely to your company's branding). Adding useful personal information makes the subject line inviting and the experience positive/engaging.
 
 ### Tip #4: Use Keywords
@@ -84,6 +92,7 @@ Transactional emails are vital. However, the (obvious) reality is that people ge
 That said, here's our current subject line:
 
 > Green University: Hayden's E-Day Registration Received!
+
 This has some keywords already. "Green University", "Hayden", and "E-Day". So, we're mostly in good shape. Given it's a registration confirmation email, we could include the date of the event. This makes user scanning more fruitful.
 
 Consider this version:
@@ -98,9 +107,11 @@ Okay – let's take a moment to see what we have accomplished.
 Original Subject Line:
 
 > E-Day Registration Submitted
+
 Optimized Subject Line:
 
 > Green University: Hayden is registered for E-Day - Mar 15, 2023! 🌟
+
 Nice! 😍
 
 These small changes took 5 minutes and, as a developer, the dynamic/personalized content is straight-forward to implement *(especially if you are using Enveloop!)*. Your end user will appreciate the effort.
