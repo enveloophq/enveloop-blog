@@ -70,13 +70,15 @@ Here, we add a section that includes a help-line telephone number. This points t
 
 ![Screenshot of an email that makes sure critical contact info stands out ](/img/healthy-body-tip-5.png)
 
-## Success!There wasn't a focus on creating the best designed email message – we'll talk about how Enveloop can help with that in a future article. However, we accomplished something more important:
+## Success!
 
-We demonstrated that in 4-5 minutes of effort, you can dramatically improve the usability of communication that you send from your application. With Enveloop providing a powerful template builder and a beautiful WYSIWYG experience, you can view, in real-time, what your user's email will look like.
+There wasn't a focus on creating the best designed email message – we'll talk about how Enveloop can help with that in a future article. However, we accomplished something more important:
+
+We demonstrated that in **4-5 minutes of effort**, you can dramatically improve the usability of communication that you send from your application. With Enveloop providing a powerful template builder and a beautiful WYSIWYG experience, you can view, in real-time, what your user's email will look like.
 
 Imagine trying to do this in your text editor with HTML/CSS. Painful.
 
-**In short: Value your user experience – even with your communication. Make them successful and you'll be successful!**
+**Value your user experience – even with your communication. Make them successful and you'll be successful!**
 
 ### Try Enveloop!
 
