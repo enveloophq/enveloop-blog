@@ -3,8 +3,7 @@ title: Welcome to Enveloop!
 description: "Hey there, we're Enveloop – a developer-focused message builder and API that makes it easy to design & send emails and texts from your app using one simple call."
 publishDate: 2022-11-18
 tags:
-  - News
-toc: false
+  - Announcements
 lang: en
 abbrlink: hello-from-enveloop
 ---
@@ -19,7 +18,7 @@ Developers create apps. These apps, well, need to talk to users. Simple, right?
 
 Unfortunately — multiple APIs, maintaining message content, design standards, delivery standards, handling failure/retry -- you have to figure it all out and, over time, **it all becomes scattered in your code**.
 
-![Blog Illustration 10](/assets/images/Blog%20Illustration%2010.png)
+![Enveloop removes all the challenges for creating useful transactional email messages](/img/welcome-enveloop-illustration.png)
 
 _Worse_ — it’s inaccessible to those that need to edit the messaging because the design & content is buried in your code with all the implementation details — as a developer, that puts **you** in the middle of any update, big or small. Gross.
 
