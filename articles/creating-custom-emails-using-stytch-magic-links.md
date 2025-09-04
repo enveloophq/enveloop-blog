@@ -90,7 +90,9 @@ Before generating a token, which takes a Stytch `user_id`, we'll need to find th
 
 💡It is probably best to store an **external foreign key** to the Stytch user_id in your User model.
 
-### Step 2: Generate an Embeddable Magic Link Token for the UserTo generate the Embeddable Magic Link token, call the [Create Magic Link endpoint](https://stytch.com/docs/api/create-magic-link) from the Stytch API.
+### Step 2: Generate an Embeddable Magic Link Token for the Use
+
+To generate the Embeddable Magic Link token, call the [Create Magic Link endpoint](https://stytch.com/docs/api/create-magic-link) from the Stytch API.
 
 Use the `token` in the **Create Magic Link** response to create a URL to pass to your Enveloop email template. The redirect URL should looks something like this: `https://yourapp.com/auth?token=MAGIC_LINK_TOKEN&amp;stytch_token_type=magic_links`
 
