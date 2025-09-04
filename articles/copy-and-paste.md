@@ -50,6 +50,7 @@ Similarly, in the label/header, you'll notice an icon that looks like two docume
 ![An animation of a cursor, selecting an element of text, and choosing an icon that copies and, then, pastes the element into a email template.](/img/copy-paste-paste-section-animation.gif)
 
 *You can copy individual Elements in Enveloop as well. It will keep all the content and design properties for the Element.*
+
 You'll notice that when you clicked the **Copy** icon, look for the same **Paste** prompt. It's the content copied is stored and ready to be pasted in. Click into the area you'd like the content pasted, click the **Paste** prompt and the Element will be added.
 
 ### Copy locally, paste globally
